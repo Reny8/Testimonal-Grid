@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Reny8/Tailwind-CLI-Practice#readme",
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
     "tailwindcss": "^3.3.1"
   }
 }
